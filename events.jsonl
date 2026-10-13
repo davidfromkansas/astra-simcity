@@ -159,3 +159,93 @@
 {"time":1791931731.902899,"kind":"decision","message":"Add a pump beside the power plant to address the water shortage.","action":"click","arguments":{"x":482,"y":229,"hold_ms":300}}
 {"time":1791931732.4571588,"kind":"action","message":"Completed click","action":"click","arguments":{"x":482,"y":229,"hold_ms":300}}
 {"time":1791931732.5194151,"kind":"decision","message":"Extend the powered pumping cluster.","action":"click","arguments":{"x":490,"y":233,"hold_ms":300}}
+{"time":1791931733.0640519,"kind":"action","message":"Completed click","action":"click","arguments":{"x":490,"y":233,"hold_ms":300}}
+{"time":1791931733.12941,"kind":"decision","message":"Add water capacity while preserving cash reserves.","action":"click","arguments":{"x":490,"y":225,"hold_ms":300}}
+{"time":1791931733.6834261,"kind":"action","message":"Completed click","action":"click","arguments":{"x":490,"y":225,"hold_ms":300}}
+{"time":1791931733.753077,"kind":"decision","message":"Add another connected pump.","action":"click","arguments":{"x":498,"y":229,"hold_ms":300}}
+{"time":1791931734.3177128,"kind":"action","message":"Completed click","action":"click","arguments":{"x":498,"y":229,"hold_ms":300}}
+{"time":1791931734.376538,"kind":"decision","message":"Expand the pumping cluster for the next population milestone.","action":"click","arguments":{"x":506,"y":233,"hold_ms":300}}
+{"time":1791931735.019032,"kind":"action","message":"Completed click","action":"click","arguments":{"x":506,"y":233,"hold_ms":300}}
+{"time":1791931735.0922701,"kind":"decision","message":"Complete this water-capacity expansion.","action":"click","arguments":{"x":514,"y":237,"hold_ms":300}}
+{"time":1791931735.656416,"kind":"action","message":"Completed click","action":"click","arguments":{"x":514,"y":237,"hold_ms":300}}
+{"time":1791931735.716672,"kind":"decision","message":"Select the centering tool to inspect space for the next neighborhood.","action":"click","arguments":{"x":69,"y":231}}
+{"time":1791931736.072208,"kind":"action","message":"Completed click","action":"click","arguments":{"x":69,"y":231}}
+{"time":1791931736.134399,"kind":"decision","message":"Center the view on the southeast expansion area.","action":"click","arguments":{"x":498,"y":297}}
+{"time":1791931736.482599,"kind":"action","message":"Completed click","action":"click","arguments":{"x":498,"y":297}}
+{"time":1791931767.802054,"kind":"decision","message":"Select dense housing for a second neighborhood on the inland side of the residential road.","action":"click","arguments":{"x":22,"y":130}}
+{"time":1791931768.152958,"kind":"action","message":"Completed click","action":"click","arguments":{"x":22,"y":130}}
+{"time":1791931768.210104,"kind":"decision","message":"Zone an inland residential block with room to grow, away from the coal plant.","action":"drag","arguments":{"x1":202,"y1":229,"x2":282,"y2":301,"duration_ms":1800}}
+{"time":1791931770.582967,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":202,"y1":229,"x2":282,"y2":301,"duration_ms":1800}}
+{"time":1791931770.636627,"kind":"decision","message":"Select roads to serve both sides of the new residential block.","action":"click","arguments":{"x":22,"y":106}}
+{"time":1791931771.0080278,"kind":"action","message":"Completed click","action":"click","arguments":{"x":22,"y":106}}
+{"time":1791931771.0618749,"kind":"decision","message":"Build the outer residential access road along the new zoning.","action":"drag","arguments":{"x1":170,"y1":249,"x2":274,"y2":309,"duration_ms":1800}}
+{"time":1791931773.537921,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":170,"y1":249,"x2":274,"y2":309,"duration_ms":1800}}
+{"time":1791931773.594445,"kind":"decision","message":"Connect the outer neighborhood road into the existing street network.","action":"drag","arguments":{"x1":322,"y1":285,"x2":274,"y2":309,"duration_ms":1000}}
+{"time":1791931775.071312,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":322,"y1":285,"x2":274,"y2":309,"duration_ms":1000}}
+{"time":1791931775.1276019,"kind":"decision","message":"Select power lines for the new housing block.","action":"drag","arguments":{"x1":22,"y1":82,"x2":53,"y2":91,"hold_ms":900}}
+{"time":1791931777.001411,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":22,"y1":82,"x2":53,"y2":91,"hold_ms":900}}
+{"time":1791931777.09055,"kind":"decision","message":"Carry power across the residential road into the inland neighborhood.","action":"drag","arguments":{"x1":266,"y1":237,"x2":202,"y2":269,"duration_ms":1400}}
+{"time":1791931779.044684,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":266,"y1":237,"x2":202,"y2":269,"duration_ms":1400}}
+{"time":1791931779.0979042,"kind":"decision","message":"Select water pipes for the new neighborhood.","action":"drag","arguments":{"x1":45,"y1":82,"x2":78,"y2":90,"hold_ms":900}}
+{"time":1791931780.9950988,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":45,"y1":82,"x2":78,"y2":90,"hold_ms":900}}
+{"time":1791931781.051499,"kind":"decision","message":"Connect the inland housing block to the water mains.","action":"drag","arguments":{"x1":266,"y1":237,"x2":202,"y2":269,"duration_ms":1400}}
+{"time":1791931783.007654,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":266,"y1":237,"x2":202,"y2":269,"duration_ms":1400}}
+{"time":1791931783.0591779,"kind":"decision","message":"Run a water main through the new residential block.","action":"drag","arguments":{"x1":186,"y1":237,"x2":298,"y2":293,"duration_ms":1600}}
+{"time":1791931785.250525,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":186,"y1":237,"x2":298,"y2":293,"duration_ms":1600}}
+{"time":1791931785.303309,"kind":"decision","message":"Return to the surface to inspect the newly serviced neighborhood.","action":"click","arguments":{"x":22,"y":130}}
+{"time":1791931785.652879,"kind":"action","message":"Completed click","action":"click","arguments":{"x":22,"y":130}}
+{"time":1791931811.005408,"kind":"decision","message":"Switch from underground pipes back to the surface view for the live audience.","action":"click","arguments":{"x":34,"y":350}}
+{"time":1791931811.359375,"kind":"action","message":"Completed click","action":"click","arguments":{"x":34,"y":350}}
+{"time":1791931811.412286,"kind":"decision","message":"Resume growth into the expanded residential neighborhood.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791931813.2715142,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791931813.3219829,"kind":"decision","message":"Advance to the next growth or annual-budget checkpoint.","action":"advance","arguments":{"ms":3500}}
+{"time":1791931816.891954,"kind":"action","message":"Completed advance","action":"advance","arguments":{"ms":3500}}
+{"time":1791931848.9031649,"kind":"decision","message":"The year-end budget settling in January 1903 reports a $17 operating surplus. This precedes the population target, so it does not count toward the three-year streak."}
+{"time":1791931848.9683342,"kind":"decision","message":"Accept the year-end budget with a $17 surplus and no borrowing.","action":"click","arguments":{"x":458,"y":124,"hold_ms":300}}
+{"time":1791931849.5325,"kind":"action","message":"Completed click","action":"click","arguments":{"x":458,"y":124,"hold_ms":300}}
+{"time":1791931849.5923269,"kind":"decision","message":"Pause after accepting the annual budget.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791931851.4242508,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791931851.481498,"kind":"decision","message":"Toggle the underground view back to the visible city surface.","action":"click","arguments":{"x":34,"y":350,"hold_ms":300}}
+{"time":1791931852.035533,"kind":"action","message":"Completed click","action":"click","arguments":{"x":34,"y":350,"hold_ms":300}}
+{"time":1791931852.090684,"kind":"decision","message":"Record the post-budget city and verify that the $17 surplus reached the treasury.","action":"sample","arguments":{}}
+{"time":1791931855.4037561,"kind":"observation","message":"City observation: 410 residents, $12547 cash, $0 debt; 1/1903."}
+{"time":1791931855.404361,"kind":"action","message":"Completed sample","action":"sample","arguments":{}}
+{"time":1791931875.353726,"kind":"decision","message":"Commercial demand is now high, so select dense commercial zoning for shops and local jobs.","action":"click","arguments":{"x":45,"y":130}}
+{"time":1791931875.7067552,"kind":"action","message":"Completed click","action":"click","arguments":{"x":45,"y":130}}
+{"time":1791931875.760326,"kind":"decision","message":"Convert a small part of the new neighborhood into a commercial center beside the residential road.","action":"drag","arguments":{"x1":202,"y1":229,"x2":234,"y2":261,"duration_ms":1200}}
+{"time":1791931877.427506,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":202,"y1":229,"x2":234,"y2":261,"duration_ms":1200}}
+{"time":1791931877.477772,"kind":"decision","message":"Resume development with housing, industry, commerce, power and spare water capacity available.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791931879.4251342,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791931879.4756968,"kind":"decision","message":"Let the serviced zones develop for several months before adding more infrastructure.","action":"advance","arguments":{"ms":5000}}
+{"time":1791931884.542868,"kind":"action","message":"Completed advance","action":"advance","arguments":{"ms":5000}}
+{"time":1791931884.6003609,"kind":"decision","message":"Pause to check whether the more balanced zoning has improved growth.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791931886.435971,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791931886.488897,"kind":"decision","message":"Save the next population and quality-of-life checkpoint.","action":"sample","arguments":{}}
+{"time":1791931889.5740852,"kind":"observation","message":"City observation: 520 residents, $12447 cash, $0 debt; 10/1903."}
+{"time":1791931889.574359,"kind":"action","message":"Completed sample","action":"sample","arguments":{}}
+{"time":1791931941.7183712,"kind":"decision","message":"Select the center tool to inspect the undeveloped commercial block more closely.","action":"click","arguments":{"x":69,"y":231}}
+{"time":1791931942.071648,"kind":"action","message":"Completed click","action":"click","arguments":{"x":69,"y":231}}
+{"time":1791931942.127299,"kind":"decision","message":"Center on the road between the powered houses and new commercial zoning.","action":"click","arguments":{"x":238,"y":252}}
+{"time":1791931942.4781802,"kind":"action","message":"Completed click","action":"click","arguments":{"x":238,"y":252}}
+{"time":1791931942.528964,"kind":"decision","message":"Zoom in to place the missing power crossing precisely.","action":"click","arguments":{"x":45,"y":231}}
+{"time":1791931942.874924,"kind":"action","message":"Completed click","action":"click","arguments":{"x":45,"y":231}}
+{"time":1791931962.383509,"kind":"decision","message":"Select power lines at the close-up road view.","action":"drag","arguments":{"x1":22,"y1":82,"x2":53,"y2":91,"hold_ms":900}}
+{"time":1791931964.216693,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":22,"y1":82,"x2":53,"y2":91,"hold_ms":900}}
+{"time":1791931964.269693,"kind":"decision","message":"Add a power crossing directly on the road between developed houses and the new neighborhood.","action":"click","arguments":{"x":400,"y":268,"hold_ms":300}}
+{"time":1791931964.829899,"kind":"action","message":"Completed click","action":"click","arguments":{"x":400,"y":268,"hold_ms":300}}
+{"time":1791931964.881524,"kind":"decision","message":"Extend that crossing one tile into the new residential block.","action":"click","arguments":{"x":384,"y":276,"hold_ms":300}}
+{"time":1791931965.426867,"kind":"action","message":"Completed click","action":"click","arguments":{"x":384,"y":276,"hold_ms":300}}
+{"time":1791931965.4769542,"kind":"decision","message":"Carry power northwest along the undeveloped block toward its commercial lots.","action":"drag","arguments":{"x1":384,"y1":276,"x2":304,"y2":236,"duration_ms":1400}}
+{"time":1791931967.375705,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":384,"y1":276,"x2":304,"y2":236,"duration_ms":1400}}
+{"time":1791931982.7962291,"kind":"decision","message":"Resume with the missing neighborhood power crossing visibly in place.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791931984.6631901,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791931984.7156742,"kind":"decision","message":"Run to the next annual review and watch the newly powered commercial and residential blocks.","action":"advance","arguments":{"ms":3500}}
+{"time":1791931988.373672,"kind":"action","message":"Completed advance","action":"advance","arguments":{"ms":3500}}
+{"time":1791932009.332148,"kind":"decision","message":"The January 1904 annual review reports $39 tax income, $5 transit spending and a $34 operating surplus. No bonds. The population target is still pending."}
+{"time":1791932009.383821,"kind":"decision","message":"Accept the $34 annual operating surplus without borrowing.","action":"click","arguments":{"x":458,"y":124,"hold_ms":300}}
+{"time":1791932009.930629,"kind":"action","message":"Completed click","action":"click","arguments":{"x":458,"y":124,"hold_ms":300}}
+{"time":1791932009.986799,"kind":"decision","message":"Pause after the annual review to measure population and utility capacity.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932011.8197792,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932011.879243,"kind":"decision","message":"Record the city entering 1904 after the power crossing fix.","action":"sample","arguments":{}}
+{"time":1791932015.112201,"kind":"observation","message":"City observation: 530 residents, $12440 cash, $0 debt; 1/1904."}
+{"time":1791932015.1125162,"kind":"action","message":"Completed sample","action":"sample","arguments":{}}
