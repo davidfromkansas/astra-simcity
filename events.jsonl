@@ -381,3 +381,56 @@
 {"time":1791932619.635681,"kind":"milestone","message":"Population target reached: 2020 residents in 12/1908. Next: three full profitable years without borrowing."}
 {"time":1791932619.635767,"kind":"observation","message":"City observation: 2020 residents, $12066 cash, $0 debt; 12/1908."}
 {"time":1791932619.636179,"kind":"action","message":"Completed sample","action":"sample","arguments":{}}
+{"time":1791932649.678079,"kind":"decision","message":"The population target is verified. Shift strategy to stable operations and three full profitable years without new borrowing.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791932651.5197382,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791932651.592428,"kind":"decision","message":"Advance to the budget that settles 1908; the qualifying full-year streak begins with 1909.","action":"advance","arguments":{"ms":2200}}
+{"time":1791932653.8250291,"kind":"action","message":"Completed advance","action":"advance","arguments":{"ms":2200}}
+{"time":1791932686.200073,"kind":"decision","message":"Annual budget settling January 1909: $155 income, $6 operating spending, $149 displayed surplus. Before the first full post-target year; does not count toward the streak."}
+{"time":1791932686.2561002,"kind":"decision","message":"Settle the $149 surplus from 1908. This partial post-target year is not counted toward the three-year streak.","action":"click","arguments":{"x":458,"y":124,"hold_ms":300}}
+{"time":1791932686.795247,"kind":"action","message":"Completed click","action":"click","arguments":{"x":458,"y":124,"hold_ms":300}}
+{"time":1791932686.856766,"kind":"decision","message":"Pause to record the starting position for the first full qualifying year.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932688.6616828,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932688.7250009,"kind":"decision","message":"Record the January 1909 baseline for the profitability phase.","action":"sample","arguments":{}}
+{"time":1791932691.819712,"kind":"observation","message":"City observation: 2120 residents, $12215 cash, $0 debt; 1/1909."}
+{"time":1791932691.8232791,"kind":"action","message":"Completed sample","action":"sample","arguments":{}}
+{"time":1791932691.8864708,"kind":"decision","message":"Run the first full post-target year without construction or borrowing.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791932693.73729,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791932693.806937,"kind":"decision","message":"Allow the game to run until its next annual budget modal, which stops the simulation for review.","action":"advance","arguments":{"ms":12000}}
+{"time":1791932705.9095502,"kind":"action","message":"Completed advance","action":"advance","arguments":{"ms":12000}}
+{"time":1791932725.917453,"kind":"decision","message":"Annual budget settling January 1910: $195 income, $6 operating spending, $189 displayed surplus. Counts toward the post-target streak."}
+{"time":1791932725.972074,"kind":"decision","message":"Accept the first qualifying full-year surplus: $189 for 1909.","action":"click","arguments":{"x":458,"y":124,"hold_ms":300}}
+{"time":1791932726.527652,"kind":"action","message":"Completed click","action":"click","arguments":{"x":458,"y":124,"hold_ms":300}}
+{"time":1791932726.5857081,"kind":"decision","message":"Pause to save the first completed profitable year.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932728.424306,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932728.4976041,"kind":"decision","message":"Record the city after year one of the required three-year profitability streak.","action":"sample","arguments":{}}
+{"time":1791932731.7287319,"kind":"observation","message":"City observation: 2060 residents, $12404 cash, $0 debt; 1/1910."}
+{"time":1791932731.729064,"kind":"action","message":"Completed sample","action":"sample","arguments":{}}
+{"time":1791932731.785005,"kind":"decision","message":"Run the second full qualifying year without borrowing or expansion.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791932733.6520472,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791932733.709389,"kind":"decision","message":"Wait for the game\u2019s next year-end budget review.","action":"advance","arguments":{"ms":12000}}
+{"time":1791932745.9357598,"kind":"action","message":"Completed advance","action":"advance","arguments":{"ms":12000}}
+{"time":1791932775.865464,"kind":"decision","message":"Annual budget settling January 1911: $196 income, $6 operating spending, $191 displayed surplus. Counts toward the post-target streak."}
+{"time":1791932775.917712,"kind":"decision","message":"Accept the second qualifying annual surplus: $191 for 1910.","action":"click","arguments":{"x":458,"y":124,"hold_ms":300}}
+{"time":1791932776.456804,"kind":"action","message":"Completed click","action":"click","arguments":{"x":458,"y":124,"hold_ms":300}}
+{"time":1791932776.512867,"kind":"decision","message":"Pause to save the second completed profitable year.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932778.326199,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932778.382933,"kind":"decision","message":"Record the city after two consecutive full profitable years.","action":"sample","arguments":{}}
+{"time":1791932781.4645991,"kind":"observation","message":"City observation: 2110 residents, $12594 cash, $0 debt; 1/1911."}
+{"time":1791932781.464941,"kind":"action","message":"Completed sample","action":"sample","arguments":{}}
+{"time":1791932781.5250628,"kind":"decision","message":"Run the third and final qualifying year without borrowing or expansion.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791932783.37667,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791932783.434164,"kind":"decision","message":"Advance to the final year-end budget review for this challenge.","action":"advance","arguments":{"ms":12000}}
+{"time":1791932795.733314,"kind":"action","message":"Completed advance","action":"advance","arguments":{"ms":12000}}
+{"time":1791932810.01012,"kind":"decision","message":"Annual budget settling January 1912: $208 income, $6 operating spending, $202 displayed surplus. Counts toward the post-target streak."}
+{"time":1791932810.064325,"kind":"decision","message":"Accept the third qualifying surplus: $202 for 1911. The challenge\u2019s three consecutive profitable years are complete.","action":"click","arguments":{"x":458,"y":124,"hold_ms":300}}
+{"time":1791932810.604943,"kind":"action","message":"Completed click","action":"click","arguments":{"x":458,"y":124,"hold_ms":300}}
+{"time":1791932810.6644669,"kind":"decision","message":"Pause the completed challenge so the final city is preserved for viewing.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932812.48238,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932812.544364,"kind":"decision","message":"Select the center tool for the final city portrait.","action":"click","arguments":{"x":69,"y":231}}
+{"time":1791932812.891104,"kind":"action","message":"Completed click","action":"click","arguments":{"x":69,"y":231}}
+{"time":1791932812.946638,"kind":"decision","message":"Center the completed settlement in the live viewer.","action":"click","arguments":{"x":413,"y":257}}
+{"time":1791932813.28671,"kind":"action","message":"Completed click","action":"click","arguments":{"x":413,"y":257}}
+{"time":1791932813.342589,"kind":"decision","message":"Save the final city and publish all final metrics after completing the challenge.","action":"sample","arguments":{}}
+{"time":1791932816.453235,"kind":"observation","message":"City observation: 2450 residents, $12796 cash, $0 debt; 1/1912."}
+{"time":1791932816.4540532,"kind":"action","message":"Completed sample","action":"sample","arguments":{}}
+{"time":1791932861.1798458,"kind":"milestone","message":"Challenge completed and city saved in January 1912: 2,450 residents, $12,796 treasury and no debt. Population milestone verified at 2,020 in December 1908. Qualifying annual surpluses: $189, $191 and $202. The city is now paused; recording finalized as a 31m 46s full session and a 95-second time-lapse."}

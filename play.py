@@ -12,7 +12,9 @@ if __name__=='__main__':
  try:
   with Client() as c:
    if action=='sample':
-    c.keypress('alt+s');c.advance(600);c.keypress('enter');c.advance(600);result=c.observe();value=sample();print(json.dumps({k:v for k,v in value.items() if k!='graphs'}));snapshot()
+    before=(ROOT.parent/'bridge/game/ASTRALAB.SC2').stat().st_mtime_ns;c.drag(24,8,49,104,hold_ms=900);c.advance(300);c.click(320,239);c.advance(300);result=c.observe();
+    if (ROOT.parent/'bridge/game/ASTRALAB.SC2').stat().st_mtime_ns==before:raise RuntimeError('Save did not update; inspect game dialog.')
+    value=sample();event('City observation: '+str(value['metrics']['population'])+' residents, $'+str(value['metrics']['funds'])+' cash, $'+str(value['metrics']['debt'])+' debt; '+str(value['month'])+'/'+str(value['year'])+'.',kind='observation');print(json.dumps({k:v for k,v in value.items() if k!='graphs'}));snapshot()
    else:result=getattr(c,action)(**args)
   event('Completed '+action,kind='action',action=action,arguments=args)
  except Exception as e:
