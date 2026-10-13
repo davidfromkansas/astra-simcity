@@ -80,3 +80,82 @@
 {"time":1791931421.5822861,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
 {"time":1791931421.633784,"kind":"decision","message":"Save and publish the result of the power and industrial zoning correction.","action":"sample","arguments":{}}
 {"time":1791931424.739847,"kind":"action","message":"Completed sample","action":"sample","arguments":{}}
+{"time":1791931466.053113,"kind":"decision","message":"Select industry to close the unzoned gap between factories and the road.","action":"click","arguments":{"x":68,"y":130}}
+{"time":1791931466.394387,"kind":"action","message":"Completed click","action":"click","arguments":{"x":68,"y":130}}
+{"time":1791931466.444729,"kind":"decision","message":"Fill the industrial block up to the road edge; the prior strip left a gap beside transport.","action":"drag","arguments":{"x1":426,"y1":217,"x2":442,"y2":241,"duration_ms":1200}}
+{"time":1791931468.1040902,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":426,"y1":217,"x2":442,"y2":241,"duration_ms":1200}}
+{"time":1791931468.154864,"kind":"decision","message":"Run a short Cheetah interval to test the corrected industrial layout.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791931470.0220249,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791931470.073225,"kind":"decision","message":"Watch for factories and first residents after closing the access gap.","action":"advance","arguments":{"ms":4000}}
+{"time":1791931474.254101,"kind":"action","message":"Completed advance","action":"advance","arguments":{"ms":4000}}
+{"time":1791931474.3090281,"kind":"decision","message":"Pause to inspect the development response.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791931476.141865,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791931476.193307,"kind":"decision","message":"Record the new population and employment readings.","action":"sample","arguments":{}}
+{"time":1791931479.294584,"kind":"action","message":"Completed sample","action":"sample","arguments":{}}
+{"time":1791931515.769151,"kind":"decision","message":"Select residential zoning and fill the gaps that kept homes separated from the road.","action":"click","arguments":{"x":22,"y":130}}
+{"time":1791931516.111975,"kind":"action","message":"Completed click","action":"click","arguments":{"x":22,"y":130}}
+{"time":1791931516.164489,"kind":"decision","message":"Make the first residential block continuous from the road to the powered edge.","action":"drag","arguments":{"x1":394,"y1":233,"x2":426,"y2":281,"duration_ms":1200}}
+{"time":1791931517.824804,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":394,"y1":233,"x2":426,"y2":281,"duration_ms":1200}}
+{"time":1791931517.876131,"kind":"decision","message":"Select the road tool for a measured expansion along the flat eastern land.","action":"click","arguments":{"x":22,"y":106}}
+{"time":1791931518.216207,"kind":"action","message":"Completed click","action":"click","arguments":{"x":22,"y":106}}
+{"time":1791931518.267477,"kind":"decision","message":"Extend the road eight tiles southeast, creating more road frontage without an expensive grid.","action":"drag","arguments":{"x1":466,"y1":261,"x2":530,"y2":293,"duration_ms":1200}}
+{"time":1791931520.004189,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":466,"y1":261,"x2":530,"y2":293,"duration_ms":1200}}
+{"time":1791931520.056319,"kind":"decision","message":"Select dense residential zoning for the new road frontage.","action":"click","arguments":{"x":22,"y":130}}
+{"time":1791931520.3828008,"kind":"action","message":"Completed click","action":"click","arguments":{"x":22,"y":130}}
+{"time":1791931520.433244,"kind":"decision","message":"Zone additional housing beside the extended road.","action":"drag","arguments":{"x1":466,"y1":269,"x2":498,"y2":317,"duration_ms":1200}}
+{"time":1791931522.1339881,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":466,"y1":269,"x2":498,"y2":317,"duration_ms":1200}}
+{"time":1791931522.1870248,"kind":"decision","message":"Select industry for the corresponding new jobs.","action":"click","arguments":{"x":68,"y":130}}
+{"time":1791931522.524354,"kind":"action","message":"Completed click","action":"click","arguments":{"x":68,"y":130}}
+{"time":1791931522.576978,"kind":"decision","message":"Zone factories southeast of the coal plant, along the other side of the road.","action":"drag","arguments":{"x1":498,"y1":253,"x2":538,"y2":289,"duration_ms":1200}}
+{"time":1791931524.240622,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":498,"y1":253,"x2":538,"y2":289,"duration_ms":1200}}
+{"time":1791931524.294185,"kind":"decision","message":"Inspect water infrastructure options before adding pumps and pipes.","action":"inspect_menu","arguments":{"x":45,"y":82}}
+{"time":1791931525.415605,"kind":"action","message":"Completed inspect_menu","action":"inspect_menu","arguments":{"x":45,"y":82}}
+{"time":1791931540.936626,"kind":"decision","message":"Select a water pump to support denser development.","action":"drag","arguments":{"x1":45,"y1":82,"x2":80,"y2":106,"hold_ms":900}}
+{"time":1791931542.7491689,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":45,"y1":82,"x2":80,"y2":106,"hold_ms":900}}
+{"time":1791931542.80141,"kind":"decision","message":"Place a powered water pump beside the coal plant.","action":"click","arguments":{"x":498,"y":237,"hold_ms":300}}
+{"time":1791931543.3413272,"kind":"action","message":"Completed click","action":"click","arguments":{"x":498,"y":237,"hold_ms":300}}
+{"time":1791931543.391319,"kind":"decision","message":"Add a second adjacent pump for additional water capacity.","action":"click","arguments":{"x":506,"y":241,"hold_ms":300}}
+{"time":1791931543.933625,"kind":"action","message":"Completed click","action":"click","arguments":{"x":506,"y":241,"hold_ms":300}}
+{"time":1791931543.986045,"kind":"decision","message":"Select underground pipes to distribute the pumps\u2019 water to the zoned blocks.","action":"drag","arguments":{"x1":45,"y1":82,"x2":78,"y2":90,"hold_ms":900}}
+{"time":1791931545.818549,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":45,"y1":82,"x2":78,"y2":90,"hold_ms":900}}
+{"time":1791931545.868615,"kind":"decision","message":"Connect the pumping area southwest through the industrial and residential blocks.","action":"drag","arguments":{"x1":498,"y1":237,"x2":426,"y2":273,"duration_ms":1400}}
+{"time":1791931547.75931,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":498,"y1":237,"x2":426,"y2":273,"duration_ms":1400}}
+{"time":1791931567.07246,"kind":"decision","message":"Lay a water main beneath the road so both employment and housing frontage can be supplied.","action":"drag","arguments":{"x1":410,"y1":233,"x2":538,"y2":297,"duration_ms":1800}}
+{"time":1791931569.421509,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":410,"y1":233,"x2":538,"y2":297,"duration_ms":1800}}
+{"time":1791931569.486665,"kind":"decision","message":"Add a second water main under the deeper residential lots.","action":"drag","arguments":{"x1":394,"y1":249,"x2":506,"y2":305,"duration_ms":1600}}
+{"time":1791931571.530642,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":394,"y1":249,"x2":506,"y2":305,"duration_ms":1600}}
+{"time":1791931571.588434,"kind":"decision","message":"Return to the surface by selecting residential zoning.","action":"click","arguments":{"x":22,"y":130}}
+{"time":1791931571.929815,"kind":"action","message":"Completed click","action":"click","arguments":{"x":22,"y":130}}
+{"time":1791931571.9924,"kind":"decision","message":"Resume growth after extending roads, zones and the water system.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791931573.890783,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791931573.971752,"kind":"decision","message":"Run a bounded development interval, watching for growth and any budget dialog.","action":"advance","arguments":{"ms":5000}}
+{"time":1791931579.1469262,"kind":"action","message":"Completed advance","action":"advance","arguments":{"ms":5000}}
+{"time":1791931579.2032099,"kind":"decision","message":"Pause to review population and utilities after expansion.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791931581.023872,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791931581.088876,"kind":"decision","message":"Save the expanded settlement and its updated metrics.","action":"sample","arguments":{}}
+{"time":1791931584.272914,"kind":"error","message":"Save did not update; inspect game dialog.","action":"sample"}
+{"time":1791931654.662518,"kind":"decision","message":"Close the January 1902 budget review. Its displayed year-end forecast is a $7 surplus; this is a forecast, not a completed profitable year.","action":"click","arguments":{"x":458,"y":124}}
+{"time":1791931655.014057,"kind":"action","message":"Completed click","action":"click","arguments":{"x":458,"y":124}}
+{"time":1791931655.077908,"kind":"decision","message":"Pause after the budget modal so the next save and metric read are reliable.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791931656.901629,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791931656.9574451,"kind":"decision","message":"Capture the January 1902 city state after resolving the budget dialog.","action":"sample","arguments":{}}
+{"time":1791931660.13985,"kind":"action","message":"Completed sample","action":"sample","arguments":{}}
+{"time":1791931692.2106292,"kind":"decision","message":"Select roads after identifying a ridge between much of the housing and the original road.","action":"click","arguments":{"x":22,"y":106}}
+{"time":1791931692.561038,"kind":"action","message":"Completed click","action":"click","arguments":{"x":22,"y":106}}
+{"time":1791931692.619394,"kind":"decision","message":"Build a residential access road along the upper side of the ridge so homes can reach transport.","action":"drag","arguments":{"x1":362,"y1":253,"x2":482,"y2":317,"duration_ms":1800}}
+{"time":1791931694.932491,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":362,"y1":253,"x2":482,"y2":317,"duration_ms":1800}}
+{"time":1791931694.987297,"kind":"decision","message":"Join the residential road to the industrial road on flat ground at the southeast end.","action":"drag","arguments":{"x1":530,"y1":293,"x2":482,"y2":317,"duration_ms":1200}}
+{"time":1791931696.731908,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":530,"y1":293,"x2":482,"y2":317,"duration_ms":1200}}
+{"time":1791931696.78401,"kind":"decision","message":"Resume the city after fixing residential road access.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791931698.695585,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791931698.7533581,"kind":"decision","message":"Watch housing development over the next several game months.","action":"advance","arguments":{"ms":5000}}
+{"time":1791931703.859786,"kind":"action","message":"Completed advance","action":"advance","arguments":{"ms":5000}}
+{"time":1791931703.9162319,"kind":"decision","message":"Pause for a growth and budget checkpoint.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791931705.7973619,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791931705.8474822,"kind":"decision","message":"Save population, finances, and service metrics after the residential access fix.","action":"sample","arguments":{}}
+{"time":1791931708.941807,"kind":"action","message":"Completed sample","action":"sample","arguments":{}}
+{"time":1791931729.936289,"kind":"decision","message":"Select water pumps because remaining water capacity has fallen to zero at 440 residents.","action":"drag","arguments":{"x1":45,"y1":82,"x2":80,"y2":106,"hold_ms":900}}
+{"time":1791931731.83331,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":45,"y1":82,"x2":80,"y2":106,"hold_ms":900}}
+{"time":1791931731.902899,"kind":"decision","message":"Add a pump beside the power plant to address the water shortage.","action":"click","arguments":{"x":482,"y":229,"hold_ms":300}}
+{"time":1791931732.4571588,"kind":"action","message":"Completed click","action":"click","arguments":{"x":482,"y":229,"hold_ms":300}}
+{"time":1791931732.5194151,"kind":"decision","message":"Extend the powered pumping cluster.","action":"click","arguments":{"x":490,"y":233,"hold_ms":300}}
