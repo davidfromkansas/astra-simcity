@@ -307,3 +307,77 @@
 {"time":1791932316.806431,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
 {"time":1791932316.875542,"kind":"decision","message":"Advance to the annual budget review entering 1907.","action":"advance","arguments":{"ms":3500}}
 {"time":1791932320.510443,"kind":"action","message":"Completed advance","action":"advance","arguments":{"ms":3500}}
+{"time":1791932350.406514,"kind":"decision","message":"Annual budget settling January 1907: $131 income, $5 operating spending, $126 displayed surplus. Before the population target; does not count toward the streak."}
+{"time":1791932350.4563892,"kind":"decision","message":"Accept the $126 operating surplus and continue without debt.","action":"click","arguments":{"x":458,"y":124,"hold_ms":300}}
+{"time":1791932351.0127208,"kind":"action","message":"Completed click","action":"click","arguments":{"x":458,"y":124,"hold_ms":300}}
+{"time":1791932351.069271,"kind":"decision","message":"Let the serviced neighborhoods grow toward 2,000 residents during 1907.","action":"advance","arguments":{"ms":5000}}
+{"time":1791932356.23597,"kind":"action","message":"Completed advance","action":"advance","arguments":{"ms":5000}}
+{"time":1791932356.294105,"kind":"decision","message":"Pause to check the population milestone before the deadline.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932358.1802309,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932358.232079,"kind":"decision","message":"Save the 1907 population checkpoint and test whether the 2,000-resident milestone has been reached.","action":"sample","arguments":{}}
+{"time":1791932361.453254,"kind":"observation","message":"City observation: 1500 residents, $12702 cash, $0 debt; 10/1907."}
+{"time":1791932361.4535182,"kind":"action","message":"Completed sample","action":"sample","arguments":{}}
+{"time":1791932381.6124532,"kind":"decision","message":"Population slipped to 1,500 and unemployment reached 25%. Zoom out to find space for the jobs the city is demanding.","action":"click","arguments":{"x":22,"y":231}}
+{"time":1791932381.97904,"kind":"action","message":"Completed click","action":"click","arguments":{"x":22,"y":231}}
+{"time":1791932417.537048,"kind":"decision","message":"Select roads for a small employment extension at the southeast end of the existing industrial street.","action":"click","arguments":{"x":22,"y":106}}
+{"time":1791932417.896162,"kind":"action","message":"Completed click","action":"click","arguments":{"x":22,"y":106}}
+{"time":1791932417.950099,"kind":"decision","message":"Extend the existing industrial street by seven tiles to serve additional jobs.","action":"drag","arguments":{"x1":466,"y1":277,"x2":522,"y2":305,"duration_ms":1300}}
+{"time":1791932419.804445,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":466,"y1":277,"x2":522,"y2":305,"duration_ms":1300}}
+{"time":1791932419.856048,"kind":"decision","message":"Select dense industry to respond to high industrial demand and unemployment.","action":"click","arguments":{"x":68,"y":130}}
+{"time":1791932420.2131462,"kind":"action","message":"Completed click","action":"click","arguments":{"x":68,"y":130}}
+{"time":1791932420.264468,"kind":"decision","message":"Zone the new industrial frontage next to the developed factories.","action":"drag","arguments":{"x1":498,"y1":269,"x2":530,"y2":301,"duration_ms":1400}}
+{"time":1791932422.137973,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":498,"y1":269,"x2":530,"y2":301,"duration_ms":1400}}
+{"time":1791932422.190759,"kind":"decision","message":"Select pipes to extend water beneath the employment extension.","action":"drag","arguments":{"x1":45,"y1":82,"x2":78,"y2":90,"hold_ms":900}}
+{"time":1791932424.080416,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":45,"y1":82,"x2":78,"y2":90,"hold_ms":900}}
+{"time":1791932424.135387,"kind":"decision","message":"Extend the existing supplied water main beneath the new jobs.","action":"drag","arguments":{"x1":450,"y1":269,"x2":522,"y2":305,"duration_ms":1400}}
+{"time":1791932426.1436381,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":450,"y1":269,"x2":522,"y2":305,"duration_ms":1400}}
+{"time":1791932426.2000341,"kind":"decision","message":"Return to the surface view after servicing the new industrial frontage.","action":"click","arguments":{"x":24,"y":349,"hold_ms":500}}
+{"time":1791932426.9498172,"kind":"action","message":"Completed click","action":"click","arguments":{"x":24,"y":349,"hold_ms":500}}
+{"time":1791932427.000672,"kind":"decision","message":"Resume development after adding job capacity.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791932428.9298089,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791932428.983105,"kind":"decision","message":"Run to the annual review entering 1908.","action":"advance","arguments":{"ms":3500}}
+{"time":1791932432.5944011,"kind":"action","message":"Completed advance","action":"advance","arguments":{"ms":3500}}
+{"time":1791932446.205101,"kind":"decision","message":"Annual budget settling January 1908: $144 income, $5 operating spending, $139 displayed surplus. Before the first full post-target year; does not count toward the streak."}
+{"time":1791932446.2570739,"kind":"decision","message":"Accept the $139 annual operating surplus after the small industrial expansion.","action":"click","arguments":{"x":458,"y":124,"hold_ms":300}}
+{"time":1791932446.8116999,"kind":"action","message":"Completed click","action":"click","arguments":{"x":458,"y":124,"hold_ms":300}}
+{"time":1791932446.870993,"kind":"decision","message":"Allow the new factory sites time to develop and employ residents during 1908.","action":"advance","arguments":{"ms":4500}}
+{"time":1791932451.4791229,"kind":"action","message":"Completed advance","action":"advance","arguments":{"ms":4500}}
+{"time":1791932451.534775,"kind":"decision","message":"Pause to check the job expansion and population before the deadline.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932453.402665,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932453.456189,"kind":"decision","message":"Save the 1908 population, unemployment and utility readings.","action":"sample","arguments":{}}
+{"time":1791932456.675738,"kind":"observation","message":"City observation: 1520 residents, $12462 cash, $0 debt; 8/1908."}
+{"time":1791932456.67605,"kind":"action","message":"Completed sample","action":"sample","arguments":{}}
+{"time":1791932542.843594,"kind":"decision","message":"The first extension hit uneven terrain. Select industry for a verified flat site beside the existing factories.","action":"click","arguments":{"x":68,"y":130}}
+{"time":1791932543.2339358,"kind":"action","message":"Completed click","action":"click","arguments":{"x":68,"y":130}}
+{"time":1791932543.286709,"kind":"decision","message":"Zone a larger flat industrial block on the northeast side of the existing factories.","action":"drag","arguments":{"x1":474,"y1":217,"x2":506,"y2":257,"duration_ms":1600}}
+{"time":1791932545.410631,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":474,"y1":217,"x2":506,"y2":257,"duration_ms":1600}}
+{"time":1791932545.46854,"kind":"decision","message":"Select roads to serve the new flat industrial block.","action":"click","arguments":{"x":22,"y":106}}
+{"time":1791932545.8221061,"kind":"action","message":"Completed click","action":"click","arguments":{"x":22,"y":106}}
+{"time":1791932545.874159,"kind":"decision","message":"Build a service road between the established factories and the new job sites.","action":"drag","arguments":{"x1":442,"y1":233,"x2":506,"y2":265,"duration_ms":1400}}
+{"time":1791932547.878397,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":442,"y1":233,"x2":506,"y2":265,"duration_ms":1400}}
+{"time":1791932547.965777,"kind":"decision","message":"Connect the new service road around the end of the existing industrial block.","action":"drag","arguments":{"x1":506,"y1":265,"x2":474,"y2":281,"duration_ms":1000}}
+{"time":1791932549.418947,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":506,"y1":265,"x2":474,"y2":281,"duration_ms":1000}}
+{"time":1791932549.477322,"kind":"decision","message":"Select power lines to ensure the new industrial block has a direct plant connection.","action":"drag","arguments":{"x1":22,"y1":82,"x2":53,"y2":91,"hold_ms":900}}
+{"time":1791932551.41013,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":22,"y1":82,"x2":53,"y2":91,"hold_ms":900}}
+{"time":1791932551.4649768,"kind":"decision","message":"Carry power across the industrial service road into the new zoning.","action":"drag","arguments":{"x1":442,"y1":233,"x2":474,"y2":217,"duration_ms":1000}}
+{"time":1791932552.9685419,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":442,"y1":233,"x2":474,"y2":217,"duration_ms":1000}}
+{"time":1791932553.026742,"kind":"decision","message":"Select pipes for the new industrial block.","action":"drag","arguments":{"x1":45,"y1":82,"x2":78,"y2":90,"hold_ms":900}}
+{"time":1791932554.8658009,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":45,"y1":82,"x2":78,"y2":90,"hold_ms":900}}
+{"time":1791932554.925927,"kind":"decision","message":"Connect the new job sites to the existing water system.","action":"drag","arguments":{"x1":426,"y1":241,"x2":490,"y2":209,"duration_ms":1300}}
+{"time":1791932556.696036,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":426,"y1":241,"x2":490,"y2":209,"duration_ms":1300}}
+{"time":1791932556.750359,"kind":"decision","message":"Lay a water main through the new factory sites.","action":"drag","arguments":{"x1":466,"y1":225,"x2":514,"y2":249,"duration_ms":1000}}
+{"time":1791932558.200099,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":466,"y1":225,"x2":514,"y2":249,"duration_ms":1000}}
+{"time":1791932558.253907,"kind":"decision","message":"Return to the surface to inspect the new factory block.","action":"click","arguments":{"x":24,"y":349,"hold_ms":500}}
+{"time":1791932559.000012,"kind":"action","message":"Completed click","action":"click","arguments":{"x":24,"y":349,"hold_ms":500}}
+{"time":1791932585.026485,"kind":"decision","message":"Resume with the flat industrial expansion connected to utilities.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791932586.859978,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791932586.916082,"kind":"decision","message":"Allow the new factory sites to develop through the next annual review.","action":"advance","arguments":{"ms":4000}}
+{"time":1791932590.948707,"kind":"action","message":"Completed advance","action":"advance","arguments":{"ms":4000}}
+{"time":1791932613.911427,"kind":"decision","message":"The city newspaper announces \u201cAstra Lab Awakens!\u201d Close it and verify the population milestone from the saved city.","action":"click","arguments":{"x":74,"y":90,"hold_ms":300}}
+{"time":1791932614.457526,"kind":"action","message":"Completed click","action":"click","arguments":{"x":74,"y":90,"hold_ms":300}}
+{"time":1791932614.5143669,"kind":"decision","message":"Pause immediately after the milestone newspaper.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932616.387889,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932616.442092,"kind":"decision","message":"Verify whether the original game has reached 2,000 residents before January 1910.","action":"sample","arguments":{}}
+{"time":1791932619.635681,"kind":"milestone","message":"Population target reached: 2020 residents in 12/1908. Next: three full profitable years without borrowing."}
+{"time":1791932619.635767,"kind":"observation","message":"City observation: 2020 residents, $12066 cash, $0 debt; 12/1908."}
+{"time":1791932619.636179,"kind":"action","message":"Completed sample","action":"sample","arguments":{}}
