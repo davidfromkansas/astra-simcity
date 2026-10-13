@@ -1,0 +1,3 @@
+__pycache__/
+*.log
+publisher-session.json

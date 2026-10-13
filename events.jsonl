@@ -1,0 +1,8 @@
+{"time":1791930963.3975859,"kind":"decision","message":"Start the challenge from the untouched January 1900 baseline with $20,000. This is the setup reset; no rewinds will be used during the attempt.","action":"restore","arguments":{"slot":0}}
+{"time":1791930963.575501,"kind":"action","message":"Completed restore","action":"restore","arguments":{"slot":0}}
+{"time":1791930963.6286411,"kind":"decision","message":"Save the starting city and record the baseline statistics.","action":"sample","arguments":{}}
+{"time":1791930964.6056309,"kind":"action","message":"Completed sample","action":"sample","arguments":{}}
+{"time":1791930977.346334,"kind":"decision","message":"Confirm overwriting the test save with the untouched starting city.","action":"click","arguments":{"x":280,"y":260}}
+{"time":1791930977.7179039,"kind":"action","message":"Completed click","action":"click","arguments":{"x":280,"y":260}}
+{"time":1791930999.116137,"kind":"decision","message":"Dismiss the saved-city confirmation so the game can close the save file.","action":"keypress","arguments":{"key":"enter"}}
+{"time":1791930999.377478,"kind":"action","message":"Completed keypress","action":"keypress","arguments":{"key":"enter"}}
