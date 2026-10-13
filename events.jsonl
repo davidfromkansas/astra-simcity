@@ -6,3 +6,5 @@
 {"time":1791930977.7179039,"kind":"action","message":"Completed click","action":"click","arguments":{"x":280,"y":260}}
 {"time":1791930999.116137,"kind":"decision","message":"Dismiss the saved-city confirmation so the game can close the save file.","action":"keypress","arguments":{"key":"enter"}}
 {"time":1791930999.377478,"kind":"action","message":"Completed keypress","action":"keypress","arguments":{"key":"enter"}}
+{"time":1791931118.893263,"kind":"decision","message":"Zoom out to survey flat land for a compact starter settlement.","action":"click","arguments":{"x":22,"y":231}}
+{"time":1791931119.243694,"kind":"action","message":"Completed click","action":"click","arguments":{"x":22,"y":231}}
