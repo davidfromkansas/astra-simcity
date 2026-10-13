@@ -249,3 +249,61 @@
 {"time":1791932011.879243,"kind":"decision","message":"Record the city entering 1904 after the power crossing fix.","action":"sample","arguments":{}}
 {"time":1791932015.112201,"kind":"observation","message":"City observation: 530 residents, $12440 cash, $0 debt; 1/1904."}
 {"time":1791932015.1125162,"kind":"action","message":"Completed sample","action":"sample","arguments":{}}
+{"time":1791932045.942572,"kind":"decision","message":"Inspect underground pipes: the new block has pipes but its developed buildings are not receiving water.","action":"drag","arguments":{"x1":45,"y1":82,"x2":78,"y2":90,"hold_ms":900}}
+{"time":1791932047.866261,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":45,"y1":82,"x2":78,"y2":90,"hold_ms":900}}
+{"time":1791932058.561246,"kind":"decision","message":"Show underground pipes to locate the break in the new neighborhood\u2019s water supply.","action":"click","arguments":{"x":34,"y":350,"hold_ms":300}}
+{"time":1791932059.123647,"kind":"action","message":"Completed click","action":"click","arguments":{"x":34,"y":350,"hold_ms":300}}
+{"time":1791932072.540023,"kind":"decision","message":"Activate the underground display toggle at the left side of its button.","action":"click","arguments":{"x":24,"y":349,"hold_ms":500}}
+{"time":1791932073.2816901,"kind":"action","message":"Completed click","action":"click","arguments":{"x":24,"y":349,"hold_ms":500}}
+{"time":1791932092.9899251,"kind":"decision","message":"Connect the supplied northern pipe grid across the road through the dry building pipes to the southern water main.","action":"drag","arguments":{"x1":400,"y1":240,"x2":320,"y2":280,"duration_ms":1400}}
+{"time":1791932094.842047,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":400,"y1":240,"x2":320,"y2":280,"duration_ms":1400}}
+{"time":1791932094.904913,"kind":"decision","message":"Return to the city surface after connecting the dry pipes.","action":"click","arguments":{"x":24,"y":349,"hold_ms":500}}
+{"time":1791932095.658547,"kind":"action","message":"Completed click","action":"click","arguments":{"x":24,"y":349,"hold_ms":500}}
+{"time":1791932095.7249181,"kind":"decision","message":"Resume growth after connecting water directly to the new buildings.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791932097.613167,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791932097.677002,"kind":"decision","message":"Give the newly watered neighborhood several months to develop.","action":"advance","arguments":{"ms":5000}}
+{"time":1791932102.7916648,"kind":"action","message":"Completed advance","action":"advance","arguments":{"ms":5000}}
+{"time":1791932102.8474739,"kind":"decision","message":"Pause to check whether watered buildings have increased population.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932104.667182,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932104.722036,"kind":"decision","message":"Record growth and infrastructure metrics after the water connection fix.","action":"sample","arguments":{}}
+{"time":1791932107.8892071,"kind":"observation","message":"City observation: 840 residents, $12422 cash, $0 debt; 10/1904."}
+{"time":1791932107.889745,"kind":"action","message":"Completed sample","action":"sample","arguments":{}}
+{"time":1791932126.905195,"kind":"decision","message":"Let the connected neighborhoods mature without additional construction spending.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791932128.740321,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791932128.798006,"kind":"decision","message":"Advance to the January 1905 budget review.","action":"advance","arguments":{"ms":3500}}
+{"time":1791932132.340418,"kind":"action","message":"Completed advance","action":"advance","arguments":{"ms":3500}}
+{"time":1791932162.3795571,"kind":"decision","message":"Annual budget settling January 1905: $68 income, $5 operating spending, $64 displayed surplus. Before the population target; does not count toward the streak."}
+{"time":1791932162.4614,"kind":"decision","message":"Accept the $64 annual operating surplus and continue the debt-free city.","action":"click","arguments":{"x":458,"y":124,"hold_ms":300}}
+{"time":1791932163.005701,"kind":"action","message":"Completed click","action":"click","arguments":{"x":458,"y":124,"hold_ms":300}}
+{"time":1791932163.062331,"kind":"decision","message":"Pause for the January 1905 metrics checkpoint.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932164.892298,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932164.968343,"kind":"decision","message":"Record population and the new treasury after the annual settlement.","action":"sample","arguments":{}}
+{"time":1791932168.026179,"kind":"observation","message":"City observation: 860 residents, $12485 cash, $0 debt; 1/1905."}
+{"time":1791932168.028487,"kind":"action","message":"Completed sample","action":"sample","arguments":{}}
+{"time":1791932208.409479,"kind":"decision","message":"Let the existing serviced land fill in; residential and commercial demand remain positive.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791932210.242351,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791932210.298913,"kind":"decision","message":"Observe another growth interval without increasing the city\u2019s costs.","action":"advance","arguments":{"ms":5000}}
+{"time":1791932215.3639219,"kind":"action","message":"Completed advance","action":"advance","arguments":{"ms":5000}}
+{"time":1791932215.420573,"kind":"decision","message":"Pause to measure how much growth the existing layout can support.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932217.253509,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932217.329648,"kind":"decision","message":"Save the late-1905 growth checkpoint.","action":"sample","arguments":{}}
+{"time":1791932220.609762,"kind":"observation","message":"City observation: 1210 residents, $12485 cash, $0 debt; 10/1905."}
+{"time":1791932220.6100512,"kind":"action","message":"Completed sample","action":"sample","arguments":{}}
+{"time":1791932237.453488,"kind":"decision","message":"Population has reached 1,210 without new spending. Continue the existing growth strategy.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791932239.353764,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791932239.407995,"kind":"decision","message":"Advance to the annual budget review entering 1906.","action":"advance","arguments":{"ms":3500}}
+{"time":1791932242.975126,"kind":"action","message":"Completed advance","action":"advance","arguments":{"ms":3500}}
+{"time":1791932285.457299,"kind":"decision","message":"Annual budget settling January 1906: $96 income, $5 operating spending, $91 displayed surplus. Before the population target; does not count toward the streak."}
+{"time":1791932285.516479,"kind":"decision","message":"Accept the $91 annual surplus. The city is requesting police, but the immediate milestone remains population growth without borrowing.","action":"click","arguments":{"x":458,"y":124,"hold_ms":300}}
+{"time":1791932286.0836759,"kind":"action","message":"Completed click","action":"click","arguments":{"x":458,"y":124,"hold_ms":300}}
+{"time":1791932286.148891,"kind":"decision","message":"Continue growth with the existing infrastructure, then recheck crime and population.","action":"advance","arguments":{"ms":5000}}
+{"time":1791932291.283306,"kind":"action","message":"Completed advance","action":"advance","arguments":{"ms":5000}}
+{"time":1791932291.352952,"kind":"decision","message":"Pause to measure the city approaching the population target.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932293.212767,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":24,"hold_ms":900}}
+{"time":1791932293.270293,"kind":"decision","message":"Record the 1906 population and service conditions.","action":"sample","arguments":{}}
+{"time":1791932296.4620118,"kind":"observation","message":"City observation: 1580 residents, $12576 cash, $0 debt; 10/1906."}
+{"time":1791932296.4623969,"kind":"action","message":"Completed sample","action":"sample","arguments":{}}
+{"time":1791932314.9242618,"kind":"decision","message":"At 1,580 residents, existing jobs and housing are still developing. Continue toward the target without expanding costs.","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791932316.806431,"kind":"action","message":"Completed drag","action":"drag","arguments":{"x1":67,"y1":8,"x2":76,"y2":71,"hold_ms":900}}
+{"time":1791932316.875542,"kind":"decision","message":"Advance to the annual budget review entering 1907.","action":"advance","arguments":{"ms":3500}}
+{"time":1791932320.510443,"kind":"action","message":"Completed advance","action":"advance","arguments":{"ms":3500}}
